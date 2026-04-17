@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="GBSConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=Production;Initial Catalog=GBS;Persist Security Info=True;User ID=adminGBS;Password=1noCw1amgc$&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=Production;Initial Catalog=GBS;Persist Security Info=True;User ID=adminGBS;Password=1noCw1amgc$</Value>
+    </Setting>
+    <Setting Name="strProduction" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=Production;Initial Catalog=GBS;Persist Security Info=True;User ID=adminGBS;Password=1noCw1amgc$&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=Production;Initial Catalog=GBS;Persist Security Info=True;User ID=adminGBS;Password=1noCw1amgc$</Value>
+    </Setting>
+    <Setting Name="strTest" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=10.1.10.10;Initial Catalog=GBS-SUP-TST;Persist Security Info=True;User ID=adminGBS;Password=1noCw1amgc$&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=10.1.10.10;Initial Catalog=GBS-SUP-TST;Persist Security Info=True;User ID=adminGBS;Password=1noCw1amgc$</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
